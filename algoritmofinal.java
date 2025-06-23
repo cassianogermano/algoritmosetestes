@@ -299,7 +299,7 @@ public class algoritmofinal
             } 
         }while(M[PontoDy][PontoDx] != M[PontoBy][PontoBx]);
         
-        // aqui o fim do código, mostrando a matriz, os pontos e os resultados das coordenadas no console
+        // aqui é onde acaba o código, mostrando a matriz, os pontos e os resultados das coordenadas no console
         System.out.println("#########################################################");
         MostraMatriz(M, Linhas, Colunas);
         System.out.println("#########################################################");
